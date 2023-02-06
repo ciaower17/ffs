@@ -1,0 +1,98 @@
+div.top {
+    
+    background-color: #dafffa;
+    height: 993px;
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0px;
+    
+    
+}
+
+body{
+    margin:0px;
+}
+
+div.middle {
+    height: 1000px;
+    width: 100%;
+    background-color:#BCCEF8;
+    padding: 20px;
+}
+
+div.bottom {
+    height: 1000px;
+    width: 100%;
+    background-color: #98A8F8;
+    padding: 20px;
+}
+
+
+
+h1.a{
+    position: absolute;
+    top: 315px;
+    left: 41%;
+    font-weight: bolder;
+    font-size: 55px;
+    font-family: 'Sofia';
+    color: #62a5c9;
+    
+    
+
+}
+
+p.b{
+    position: absolute;
+    top: 390px;
+    left: 44%;
+    font-size: 42px;
+    font-family: 'Aguafina Script';
+    color: #62a5c9;
+}
+
+#nuvola1 {
+    position: absolute;
+    top: 435px;
+    left: 1400px;
+    
+}
+
+#nuvola2 {
+    position: absolute;
+    top: 585px;
+    left: 250px;
+}
+
+#mountain {
+    position: absolute;
+    top: 585px;
+    left: 23%;
+    filter: drop-shadow (10px 10px 10px  black);
+
+}
+
+button.a {
+    position: absolute;
+}
+
+
+button.Contact {
+    background-color: #dafffa;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    color: #62a5c9;
+    padding-top: 28px;
+    padding-left: 28px;
+    position: fixed;
+    left: 1650px;
+    font-family: monospace;
+}
+
+button.Contact:hover {
+    cursor: pointer;
+}
